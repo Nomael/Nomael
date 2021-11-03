@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nomael
-- 👀 I’m interested in the Programming languages Java, HTML and PHP
+- 👀 I’m interested in the Programming languages such as Java, HTML and PHP
 - 🌱 I’m currently learning Java and a little self taught PHP
 
 <!---
