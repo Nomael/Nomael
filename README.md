@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Nomael
 - 👀 I’m interested in the Programming languages C#, HTML, CSS and PHP
-- 🌱 I’m currently learning C# and PHP
+- 🌱 I’m currently learning C#
 
 <!---
 Nomael/Nomael is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
