@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Nomael
-- 👀 I’m interested in the Programming languages C#, HTML, CSS and PHP
+- 👀 I’m interested in the Programming languages Angular, C#, HTML, CSS and PHP
 - 🌱 I’m currently learning C#
 
 <!---
